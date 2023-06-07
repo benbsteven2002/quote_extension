@@ -42,7 +42,7 @@ Feel free to explore the code and make changes to suit your preferences or add a
 
 ## Contributing
 
-Contributions to the Daily Inspiration Chrome Extension are welcome! If you have any ideas, bug fixes, or enhancements, feel free to open an issue or submit a pull request. Please ensure that any code changes align with the overall goals and functionality of the extension.
+Contributions are welcome! If you have any ideas, bug fixes, or enhancements, feel free to open an issue or submit a pull request. Please ensure that any code changes align with the overall goals and functionality of the extension.
 
 ## Acknowledgements
 
